@@ -1,1 +1,3 @@
 # NetWorkFlowMeasurement
+仓库包含网络测量课程第二次实验的代码和使用cicflowmeter软件导出的4个CSV数据包
+readUsingLatin1用来测试是否读文件成功，其它两个task文件分别对应2,3题
